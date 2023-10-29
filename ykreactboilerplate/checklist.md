@@ -1,1 +1,3 @@
-Boilerplate to your own project chlick list
+## Boilerplate To Project
+
+- [ ] Favicon
